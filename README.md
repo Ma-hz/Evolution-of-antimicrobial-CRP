@@ -1,2 +1,2 @@
-# Evolution-of-antimicrobial-CRP
+# Evolution of plant CRPs
 Evolution of antimicrobial cysteine-rich peptides in plants
